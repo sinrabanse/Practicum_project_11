@@ -28,7 +28,7 @@ I should:
 3) Create user clusters:
    - Standardize the data.
    - Use the linkage() function to build a matrix of distances based on the standardized feature matrix and plot a dendrogram.
-   - Train the clustering model with the K-means algorithm and predict customer clusters.
+   - Train the clustering model with the K-means algorithm and predict customer clusters. (Let the number of clusters be n=5)
    - Look at the mean feature values for clusters.
    - Plot distributions of features for the clusters.
    - Calculate the churn rate for each cluster
