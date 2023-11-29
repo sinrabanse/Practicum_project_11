@@ -1,9 +1,9 @@
 # Practicum_project_11
- My eleventh project from Practicum course
+ My eleventh project from Practicum course. "Forecasts and Predictions"
 
  What was used in the project: Python, Jupyter notebook. Libraries: pandas, matplotlib, seaborn, sklearn.
 
-Project Description
+# Project Description
 
 I am data analyst in the gym chain Model Fitness. In order to fight churn, Model Fitness has digitized a number of its customer profiles. My task is to analyze them and come up with a customer retention strategy.
 
